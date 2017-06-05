@@ -1,4 +1,10 @@
 temp
-webapps
 logs
 work
+webapps/*
+!webapps/ROOT
+!webapps/docs
+!webapps/examples
+!webapps/host-manager
+!webapps/manager
+
