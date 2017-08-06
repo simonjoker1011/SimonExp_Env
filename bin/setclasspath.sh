@@ -85,3 +85,7 @@ if [ "$os400" != "true" ]; then
     _RUNJDB="$JAVA_HOME"/bin/jdb
   fi
 fi
+
+CATALINA_PID="$CATALINA_BASE/bin/catalina.pid"
+
+
